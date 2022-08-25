@@ -5,7 +5,7 @@
 ## Hello World ☕
 
  - Web Developer Jr.
- - Porfolio (coming soon)
+ - Porfolio (coming soon).
  - Passionate for tecnology.  
  - I'm currently open Hiring.
  
