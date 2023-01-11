@@ -9,10 +9,10 @@
  - Passionate for tecnology.  
  - I'm currently open Hiring.
  
- ## Tech Stacks
- - HTML5
- - CSS3
+ ## Tech Stacks 
  - JavaScript
+ - TypeScript
+ - NestJS
  
  ## Contact 
  
