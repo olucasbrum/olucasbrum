@@ -12,6 +12,7 @@
  ## Tech Stacks 
  - JavaScript
  - TypeScript
+ - NodeJS
  - NestJS
  
  ## Contact 
