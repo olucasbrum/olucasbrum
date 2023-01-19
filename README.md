@@ -12,7 +12,7 @@
  ## Tech Stacks 
  - JavaScript, TypeScript
  - Express, Node, Nest
- - PostgresDb, sqlite
+ - PostgresDb, sqlite, Docker 
  
  ## Contact 
  
