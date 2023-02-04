@@ -10,9 +10,9 @@
  - I'm currently open Hiring.
  
  ## Tech Stacks 
- - JavaScript, TypeScript
- - Express, Node, Nest
- - PostgresDb, sqlite, Docker 
+ - JavaScript, TypeScript.
+ - Express, Node, Nest.
+ - PostgresDb, sqlite, Docker.
  
  ## Contact 
  
